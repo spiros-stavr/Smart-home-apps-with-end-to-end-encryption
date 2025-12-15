@@ -5,6 +5,7 @@ source available at: https://nemertes.library.upatras.gr/jspui/bitstream/10889/1
 
 Hardware prerequisites:
 * more than 2 ESP32
+
 Software prerequisites:
 * ESP-IDF 4.2
 * Eclipse (as an IDE)
